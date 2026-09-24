@@ -1,7 +1,7 @@
-# 🎂 Happy Birthday My Love ✨ | Interactive Birthday Surprise Website
+# 🎂 Happy Birthday Krina ✨ | Interactive Birthday Surprise Website
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-ff69b4.svg" alt="Made with Love">
+  <img src="https://img.shields.io/badge/Dedicated%20To-Krina%20❤️-ff69b4.svg" alt="Dedicated to Krina">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  An elegant, heartfelt, and interactive web experience crafted to celebrate a very special birthday. Features a romantic glassmorphism design, floating canvas petals and hearts, interactive 3D love cards, dynamic candle-blowing effects with confetti, and ambient synthesized melody.
+  An elegant, heartfelt, and interactive web experience specially crafted to celebrate <b>Krina's Birthday</b>. Features a romantic glassmorphism design, floating canvas petals and hearts, interactive 3D love cards, dynamic candle-blowing celebration with confetti, and an ambient synthesized melody.
 </p>
 
 ---
@@ -18,9 +18,9 @@
 ## 🌟 Highlights & Features
 
 - 💌 **Multi-Step Romantic Journey:**
-  - **Step 1: The Invitation** — A glowing glassmorphic envelope card inviting the celebrant to open their surprise.
-  - **Step 2: Birthday Cake & Love Cards** — An interactive cake section with a candle-blowing celebration, realistic confetti burst, and 4 flip cards revealing reasons why she is cherished.
-  - **Step 3: Heartfelt Love Letter** — A heartfelt, personal letter styled with timeless typography, playful humor, and a signature sign-off.
+  - **Step 1: The Invitation** - A glowing glassmorphic envelope card inviting the celebrant to open their surprise.
+  - **Step 2: Birthday Cake & Love Cards** - An interactive cake section with a candle-blowing celebration, realistic confetti burst, and 4 flip cards revealing reasons why she is cherished.
+  - **Step 3: Heartfelt Love Letter** - A heartfelt, personal letter styled with timeless typography, playful humor, and a signature sign-off.
 - 🌸 **Canvas Particle Engine:** Continuous background animation with floating hearts, rose petals, and glittering sparkles using HTML5 Canvas.
 - 🎶 **Pure Web Audio API Music:** Built-in synthesizer that plays gentle background melodies and chime sound effects without needing external audio files.
 - 🎴 **3D Interactive Flip Cards:** Tap or click cards to flip them and uncover sweet memories and loving compliments.
@@ -110,4 +110,4 @@ Want to adapt this website for your partner, friend, or family member? You can e
 
 Feel free to fork this project, give it a ⭐ if you liked it, and share the love!
 
-Crafted with ❤️ for a very special celebration.
+Crafted with ❤️ by Mayur, dedicated with all my love to Krina. ✨
